@@ -15,7 +15,7 @@ I'm a Software Engineer with a deep passion for blockchain technology and its tr
 | MySQL                  | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | MongoDB   | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | SQLite                 | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | Redis     | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white) |
 | Debian                 | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) | Mac OS    | ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) |
-| Figma (UI/UX)          | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |          |       |
+| Figma (UI/UX)          | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | Protocol Buffers | ![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-007ACC?style=flat-square&logo=protocol-buffers&logoColor=white) |
 
 
 ⛓️ **My Blockchain Passion:**  
