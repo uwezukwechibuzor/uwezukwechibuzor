@@ -10,6 +10,5 @@
 <p align="center">
   🚀 Let's build the future — I'm open to collaboration, open-source, and innovative projects.<br/>
   🌐 <a href="https://x.com/ChibuzorWezukwe">Twitter</a> • 
-  💼 <a href="https://www.linkedin.com/in/chibuzoruwezukwe/">LinkedIn</a> • 
   📧 <a href="mailto:uwezukwechibuzor@gmail.com">uwezukwechibuzor@gmail.com</a>
 </p>
